@@ -5,6 +5,3 @@
 
 ## 索引
 
-[阅读记录](https://github.com/LYS0/LYS0.github.io/blob/gh-pages/Reading)
-[生活琐事](https://github.com/LYS0/LYS0.github.io/blob/gh-pages/%E7%94%9F%E6%B4%BB%E7%90%90%E4%BA%8B.md)
-
