@@ -1,4 +1,3 @@
-# LYS0.github.io
 # My Blog
 你们好啊，欢迎来到这个空间。
 
